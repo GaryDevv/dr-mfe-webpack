@@ -1,0 +1,20 @@
+MFE - products
+- aprire un terminale
+- spostarsi in ./products
+- digitare il comando npm install per installare tutti i pacchetti necessari (*solamente la prima volta*)
+- digitare il comando npm start per avviare il MFE dei prodotti
+
+MFE - cart
+- aprire un terminale
+- spostarsi in ./cart
+- digitare il comando npm install per installare tutti i pacchetti necessari (*solamente la prima volta*)
+- digitare il comando npm start per avviare il MFE del carrello
+
+Container
+- aprire un nuovo terminale
+- spostarsi in ./container
+- digitare il comando npm install per installare tutti i pacchetti necessari (*solamente la prima volta*)
+- digitare il comando npm start per avviare il container (MAIN)
+
+ATTENZIONE!
+Il container va avviato solamente dopo aver avviato products e cart!

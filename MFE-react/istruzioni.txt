@@ -1,0 +1,15 @@
+MFE-1 in react
+- aprire un terminale
+- spostarsi in ./mfe-1
+- digitare il comando npm install per installare tutti i pacchetti necessari (*solamente la prima volta*)
+- digitare il comando npm start per avviare il MFE in react
+
+Container
+- aprire un nuovo terminale
+- spostarsi in ./container
+- digitare il comando npm install per installare tutti i pacchetti necessari (*solamente la prima volta*)
+- digitare il comando npm start per avviare il container (MAIN)
+
+
+ATTENZIONE!
+Il container va avviato solamente dopo aver avviato mfe-1!
